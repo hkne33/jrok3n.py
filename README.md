@@ -1,2 +1,1 @@
-# speak.py
-Ses 
+# admin finder
